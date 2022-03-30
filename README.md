@@ -8,4 +8,4 @@
 * Немного усталая
 * Но, как прежде, прекрасная
 
-![avatar](Git-coursework/img/i.JPG)
+![avatar](img\i.jpg)
